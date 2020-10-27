@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoMascota3</string>
+    <string name="pnombre">Mascota</string>
+    <string name="phueso">#</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+</resources>
